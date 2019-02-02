@@ -2,7 +2,7 @@
 
 ###### A university project assigned on Programming with C++ course.
 
-The purpose of the project is to load an image and apply filters that a user wants. The applyable filters are:
+The purpose of this project is to load an image and apply filters that a user wants. The applyable filters are:
 - Blur
 - Median
 - Gray
