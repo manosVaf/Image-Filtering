@@ -1,20 +1,9 @@
-//------------------------------------------------------------
-//
-// C++ course assignment code 
-//
-// G. Papaioannou, 2015
-//
-//
 
 #ifndef _ARRAY_
 #define _ARRAY_
 
 namespace math
 {
-
-	//---------------------------------------------------------------------------------------------
-	// Do NOT modify this section. For the implementation, see comment below the class declaration
-
 	template <typename T>
 	class Array
 	{
@@ -56,8 +45,6 @@ namespace math
 
 	};
 
-	// This is a templated class so include its implementation in the header file below this line:
-	//--------------------------------------------------------------------------------------------
 
 	template<typename T>
 	T & Array<T>::operator()(int x, int y) {

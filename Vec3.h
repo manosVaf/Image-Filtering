@@ -1,10 +1,4 @@
-//------------------------------------------------------------
-//
-// C++ course assignment code 
-//
-// G. Papaioannou, 2015
-//
-//
+
 
 #ifndef _Vec3_
 #define _Vec3_

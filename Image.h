@@ -1,10 +1,3 @@
-//------------------------------------------------------------
-//
-// C++ course assignment code 
-//
-// G. Papaioannou, 2015
-//
-//
 
 #ifndef _IMAGE
 #define _IMAGE
@@ -14,8 +7,7 @@
 
 using namespace math;
 
-// We put every class or function associated with the image storage, compression and manipulation 
-// in the "imaging" namespace
+
 namespace imaging
 {
 

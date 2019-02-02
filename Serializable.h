@@ -1,10 +1,4 @@
-//------------------------------------------------------------
-//
-// C++ course assignment code 
-//
-// G. Papaioannou, 2015
-//
-//
+
 
 #ifndef _SERIALIZABLE_
 #define _SERIALIZABLE_
